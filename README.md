@@ -10,8 +10,6 @@ Advanced lane detection pipeline developed as part of the Self-Driving Car Engin
 
 The project combines camera calibration, image processing, perspective transformations, lane tracking, and geometric estimation to identify lane boundaries and estimate vehicle position in road video streams.
 
-<img src="output_images/final_lane_overlay.jpg" width="800">
-
 ---
 
 ## Overview
